@@ -2,7 +2,7 @@
 window.STORE = {
  "name": "AMROPIXELS",
  "tagline": "إصلاح وتحسين متاجر سلة",
- "whatsapp": "966500108919",
+ "whatsapp": "966500108918",
  "sales": 1701536968,
  "proof": [
   [
